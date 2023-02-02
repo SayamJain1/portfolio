@@ -68,7 +68,7 @@ export const projects = [
   },
   {
     id: 2,
-    img: "/Music-App.png",
+    img: "/Music-app.png",
     title: "Hign Note",
     disc: "High Note is a modern music application that provide tracks to users in a matter of clicks, The idea behind High Note is to provide the music to users with minimalistic user interface.",
     tech: "Javascript, HTML-CSS, Rapid-API",
