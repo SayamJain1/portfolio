@@ -6,7 +6,7 @@ function Footer() {
           <p className="text-[14px] pb-3">Send me an email at</p>
           <a
             href="mailto:sayamjain99300@gmail.com"
-            className="text-[28px] hover:underline"
+            className="text-[22px] sm:text-[28px] hover:underline"
           >
             sayamjain99300@gmail.com
           </a>
