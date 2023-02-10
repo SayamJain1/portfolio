@@ -65,12 +65,14 @@ function About() {
             />
           </a>
 
-          <button
+          <a
             type="button"
-            className="px-5 py-2 text-sm font-semibold text-black bg-gray-200 border rounded-full focus:outline-none hover:bg-gray-100 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-600 dark:focus:ring-gray-700"
+            target="_blank"
+            href="https://drive.google.com/file/d/1ZvJYE58NEWGrOgC5awkcCln4-DX2L0bH/view?usp=sharing"
+            className="px-5 py-2 text-sm font-semibold text-black bg-gray-200 border rounded-full cursor-pointer focus:outline-none hover:bg-gray-100 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-600 dark:focus:ring-gray-700"
           >
             Resume
-          </button>
+          </a>
         </div>
       </div>
     </section>

@@ -22,7 +22,19 @@ function Blog() {
                 Jan 23 · 3 min read
               </span>
             </div>
-            {/* <div className="p-4 rounded-lg glassmorphism">add more here</div> */}
+
+            <div className="p-4 rounded-lg glassmorphism">
+              <a
+                className="hover:underline hover:text-gray-300"
+                target="_blank"
+                href="https://medium.com/@vij99300/javascript-array-and-its-5-most-used-methods-837ea3ae9d85"
+              >
+                JavaScript Array and Its 5 most used methods.
+              </a>
+              <span className="pl-4 text-[13px] text-gray-400">
+                Fab 9 · 3 min read
+              </span>
+            </div>
             {/* <p>Publish Another Soon</p> */}
             <p>More to come</p>
           </div>
