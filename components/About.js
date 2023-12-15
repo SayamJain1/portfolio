@@ -68,7 +68,7 @@ function About() {
           <a
             type="button"
             target="_blank"
-            href="https://drive.google.com/file/d/1c17SAR4H0YJ-7wujl913LnM3xHbI4WIj/view?usp=sharing"
+            href="https://drive.google.com/file/d/1dWYKqGUwKrYrPTURDhGLuodrCnQFuYME/view"
             className="px-5 py-2 text-sm font-semibold text-black bg-gray-200 border rounded-full cursor-pointer focus:outline-none hover:bg-gray-100 dark:bg-gray-800 dark:text-white dark:border-gray-600 dark:hover:bg-gray-700 dark:hover:border-gray-600 dark:focus:ring-gray-700"
           >
             Resume
